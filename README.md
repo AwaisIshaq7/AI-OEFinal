@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agricultural Intelligence Decision Support System (AIDSS)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
@@ -434,3 +435,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Last Updated:** May 2026  
 **Version:** 1.0  
 **Status:** Production Ready ✓
+=======
+# AI-OEFinal
+>>>>>>> e923a90a521187b91e380f8eed21b3740d9a5d31
